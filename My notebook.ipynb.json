@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 5,
+  "nbformat": 4,
+  "cells": [
+    {
+      "id": "a67c4322-7d3b-45b3-b577-fe40427e16fb",
+      "cell_type": "code",
+      "source": "Markdown\n#1-notebook.pgn",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "b9afc9ba-629a-4982-a0ac-b0b7ed768cbf",
+      "cell_type": "code",
+      "source": "## Introduction\n\nThis notebook provides an overview of the tasks in this assignment and demonstrates how to use markdown cells, code cells, and basic notebook structure.",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "e86a266e-e009-4805-9f06-11fb55eca24b",
+      "cell_type": "code",
+      "source": "## Data Science Languages\n\n- Python  \n- R  \n- SQL  \n- Julia  \n- Scala  \n- Java",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "1db055ee-254a-43ba-92d6-a3f4c1612d09",
+      "cell_type": "code",
+      "source": "## Data Science Libraries\n\n- **NumPy** – for numerical computing  \n- **Pandas** – for data manipulation and analysis  \n- **Matplotlib** – for data visualization  \n- **Seaborn** – for statistical plots  \n- **Scikit-learn** – for machine learning  \n- **TensorFlow** – for deep learning  \n- **PyTorch** – for deep learning",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "a69256d0-e94a-4504-bc1c-f9b9a3c47c7a",
+      "cell_type": "code",
+      "source": "## Data Science Tools\n\n| Tool            | Category              | Description                             |\n|-----------------|------------------------|-----------------------------------------|\n| Jupyter Notebook | IDE / Notebook        | Interactive environment for coding and visualization |\n| RStudio         | IDE                   | Integrated development environment for R |\n| GitHub          | Version Control       | Platform for hosting and collaborating on code |\n| Apache Spark    | Big Data Processing   | Engine for large-scale data processing |\n| TensorFlow      | Deep Learning         | Library for building neural networks |",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "5ded26fe-1735-471f-bd0b-54e26c13f357",
+      "cell_type": "code",
+      "source": "## Arithmetic Expression Examples\n\nIn this section, we will explore simple arithmetic expressions using basic operations such as addition, subtraction, multiplication, and division. These examples will demonstrate how to perform calculations and understand the results in Python.",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "28cf9253-5f71-4717-9df8-5063beb78ba1",
+      "cell_type": "code",
+      "source": "# Multiplying and adding numbers\na = 5\nb = 3\nc = 2\n\n# Multiply a and b, then add c\nresult = (a * b) + c\nprint(\"The result of (a * b) + c is:\", result)",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "362d05f0-adb8-4aea-ae64-97e413705e5e",
+      "cell_type": "code",
+      "source": "# Convert minutes to hours\nminutes = 150\n\n# Calculate hours\nhours = minutes / 60\nprint(minutes, \"minutes is equal to\", hours, \"hours\")",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "dcf1ae5c-a448-4f32-98c4-beb461393799",
+      "cell_type": "code",
+      "source": "# Objectives\n\n1. Understand the fundamental concepts of [topic/subject].\n2. Develop practical skills in [specific task or technique].\n3. Apply theoretical knowledge to solve problems and analyze results.",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "0d117a29-b220-4931-9576-ab1a700cf710",
+      "cell_type": "code",
+      "source": "## Author\n**Mogomme Masilo Anold**",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "ename": "<class 'SyntaxError'>",
+          "evalue": "invalid syntax (<ipython-input-1-66780d561958>, line 2)",
+          "traceback": [
+            "\u001b[0;36m  Cell \u001b[0;32mIn[1], line 2\u001b[0;36m\u001b[0m\n\u001b[0;31m    **Mogomme Masilo Anold**\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ],
+          "output_type": "error"
+        }
+      ],
+      "execution_count": 1
+    },
+    {
+      "id": "e73d920e-1a67-4ac5-8c4e-e7bcefbbd83b",
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "d1b99031-caf7-4d66-95d2-c0bd760a3116",
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "b3d18e81-fe6c-42f0-8992-38e03334de51",
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "82c5dee4-c50a-4458-badb-5918bf21fe5d",
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    }
+  ]
+}
